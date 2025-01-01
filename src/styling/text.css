@@ -1,0 +1,33 @@
+
+
+.h1{
+    font-size: 34px;
+}
+.h2{
+    font-size: 24px;
+}
+.h3{
+    font-size: 20px;
+}
+.subtitle{
+    font-size: 18px;
+}
+.p{
+    font-size: 16px;
+}
+
+.centered{
+    text-align: center;
+}
+.noLineBreak{
+    white-space: nowrap;
+}
+.lineBreak{
+    white-space: pre-line;
+}
+.bold{
+    font-weight: bold;
+}
+.semiBold{
+    font-weight:600;
+}

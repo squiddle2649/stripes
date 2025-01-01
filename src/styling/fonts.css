@@ -1,0 +1,28 @@
+
+.garamond{
+    font-family: garamond;
+}
+.kaiseiRegular {
+    font-family: "Kaisei Tokumin", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.kaiseiMedium {
+  font-family: "Kaisei Tokumin", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.kaiseiBold {
+    font-family: "Kaisei Tokumin", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+@font-face {
+    font-family: 'sourceSerifBold';
+    src: url('../assets/fonts/sourceSerif/SourceSerifPro-Bold.otf') format('truetype');
+}
+@font-face {
+    font-family: 'sourceSerifRegular';
+    src: url('../assets/fonts/sourceSerif/SourceSerifPro-Regular.otf') format('truetype');
+}

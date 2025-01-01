@@ -1,0 +1,43 @@
+
+body{
+    margin:0px;
+    height: 100%;
+}
+.buttonReset {
+    appearance: none;
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    color: inherit;
+}
+.fullWidth{
+    width:100%
+}
+.fullHeight{
+    height:100%
+}
+.fitContent{
+    width:fit-content
+}
+.minContent{
+    width:min-content
+}
+.maxContent{
+    width:max-content
+}
+.pointer{
+    cursor: pointer;
+}
+.noMargin{
+    margin:0
+}
+.hrBlackLine{   
+    width: 100%;
+    background-color: black;
+    height: 2px;
+}
+textarea{
+    resize:none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
